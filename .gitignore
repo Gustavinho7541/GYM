@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+academia.db
+academia.db-shm
+academia.db-wal
